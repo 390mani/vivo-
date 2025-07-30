@@ -209,12 +209,27 @@ p{
 .temp3{
     margin-left: 120px;
 }
-/* img{
-    transition: background-color 1.0s ease;
+.information{
+    background-color: rgb(41, 38, 38);
+    color: white;
+    display: flex;
+    
+ }
+.inf1{
+    list-style: none;
+    font-size: 10px;
 }
-img:hover{
-    transform: scale(0.9);
+    
+.inf1>li{
+    line-height: 30px;
 }
-#main1:hover{
-    transform: scale(1.9);
-} */
+ .inf{
+    margin: 20px;
+ }
+ .infor{
+    margin-left: 100px;
+    margin-top: 30px;
+ }
+ img:hover{
+    scale: 1.01;
+ }
